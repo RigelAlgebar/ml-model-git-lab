@@ -45,7 +45,7 @@ def main():
         X, y, test_size=args.test_size, random_state=args.random_state, stratify=y
     )
 
-    clf = RandomForestClassifier(
+    clf = RandomForestRegressor(
         n_estimators=args.n_estimators,
         max_depth=args.max_depth,
         random_state=args.random_state,
