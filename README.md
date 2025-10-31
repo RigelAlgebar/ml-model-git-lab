@@ -1,4 +1,4 @@
-data-science-template
+ML Model Git Lab
 ==============================
 
 A short description of the project.
