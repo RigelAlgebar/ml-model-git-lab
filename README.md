@@ -1,4 +1,4 @@
-ML Model Git Lab (TEAM B)
+ML Model Git Lab (TEAM A)
 ==============================
 
 A short description of the project.
