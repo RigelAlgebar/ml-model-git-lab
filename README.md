@@ -1,4 +1,4 @@
-ML Model Git Lab
+ML Model Git Lab (TEAM B)
 ==============================
 
 A short description of the project.
