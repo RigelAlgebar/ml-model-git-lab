@@ -1,0 +1,58 @@
+
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual Environments ---
+venv/
+env/
+*.env
+.venv/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- Data files (raw + processed) ---
+notebooks/data/
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.feather
+
+# If you want to track specific datasets, remove entries above individually
+
+# --- MacOS Finder crap ---
+.DS_Store
+../.DS_Store
+
+# --- Logs ---
+*.log
+
+# --- Cache ---
+.cache/
+*.tmp
+*.temp
+
+# --- Config ---
+*.swp
+*.swo
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Colab artifacts ---
+*.json
+*.pbtxt
+*.ipynb
+drive/
+content/
+
